@@ -1,6 +1,6 @@
 {
-  "name": "wajji02-numbergussing-game",
-  "version": "1.0.1",
+  "name": "wajji01-numbergussing-game",
+  "version": "1.0.2",
   "description": "A number gussing game using typscript NodeJs and Inquirer",
   "main": "index.js",
   "type": "module",
